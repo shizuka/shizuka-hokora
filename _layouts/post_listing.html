@@ -37,8 +37,9 @@ layout: default
     {% if post.excerpt %}
     <div class="post-description">
       <p>
-        {{ post.excerpt }}
+        {{ post.excerpt | markdownify }}
       </p>
+      {% if post.excerpt != post.content %}<p><a href="{{ site.url }}{{ post.url }}">Read more...</a></p>{% endif %}
     </div>
     {% endif %}
 

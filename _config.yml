@@ -71,3 +71,11 @@ owner:
   codepen: #username
   reddit: #username
   telegram: #username
+
+defaults:
+  -
+    scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: post
