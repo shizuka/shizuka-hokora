@@ -1,0 +1,73 @@
+#
+###################################
+# Site wide configuration
+####################################
+#
+title: shizuka hokora
+email:
+description: a wayside shrine for wayside thoughts
+url: "https://shizuka.hokora.page"
+keywords: ["writing", "blog", "short stories"]
+
+#
+###################################
+# Jekyll configuration
+####################################
+#
+timezone:          America/Chicago
+markdown:          kramdown
+highlighter:       rouge
+excerpt_separator: <!--more-->
+permalink:         /articles/:year-:month/:title
+
+kramdown:
+  auto_ids: true
+  footnote_nr: 1
+  entity_output: as_char
+  toc_levels: 1..6
+  enable_coderay: false
+  hard_wrap: false
+  smart_quotes: ["apos", "apos", "quot", "quot"]
+
+#
+###################################
+# Site Owner configuration
+####################################
+#
+owner:
+  name: shizuka hokora
+  avatar: shrinehdr.png
+  job: "a wayside shrine for wayside thoughts"
+  bio: 
+  email:
+  disqus-shortname:
+  twitter: #username
+  facebook: #username
+  google:
+    plus: #username
+    analytics:
+    verify:
+    ad-client:
+    ad-slot:
+  bing-verify:
+  github: #username
+  gitlab: #username
+  stackoverflow: #123456/username   from a "http://stackoverflow.com/users/123456/username" link
+  linkedin: #username
+  skype: #username
+  xing: #username
+  instagram: #username
+  lastfm: #username
+  tumblr: #username
+  pinterest: #username
+  foursquare: #username
+  steam: #username
+  dribbble: #username
+  youtube: #username
+  soundcloud: #username
+  weibo: #username
+  flickr: #username
+  500px: #username
+  codepen: #username
+  reddit: #username
+  telegram: #username
