@@ -1,7 +1,7 @@
 ---
 title: One Furry Morning
 categories: [confursion]
-tags: [furry, vignettes]
+tags: [vignettes, furry]
 ---
 
 **...six months after first infection...**  
