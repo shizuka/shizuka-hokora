@@ -10,6 +10,13 @@
   {% capture description %}{{ site.description }}{% endcapture %}
 {% endif %}
 
+<!--
+  Shizuka Hokora - a wayside shrine for wayside thoughts
+  (c) 2019 Jessica Hart
+
+  Based on Leonids theme by Renyuan Zou https://renyuanz.github.io/leonids/
+-->
+
 <head>
   <meta charset="UTF-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -26,7 +33,7 @@
   {% if page.image.feature %}
     <meta property="twitter:image" content="{{ site.url }}/img/{{ page.image.feature }}">
   {% else %}
-    <meta property="twitter:image" content="{{ site.url }}/img/leonids-logo.png">
+    <meta property="twitter:image" content="{{ site.url }}/img/shrinehdr.png">
   {% endif %}
 
   <!-- Open Graph Tags -->
@@ -37,7 +44,7 @@
   {% if page.image.feature %}
     <meta property="og:image" content="{{ site.url }}/img/{{ page.image.feature }}">
   {% else %}
-    <meta property="og:image" content="{{ site.url }}/img/leonids-logo.png">
+    <meta property="og:image" content="{{ site.url }}/img/shrinehdr.png">
   {% endif %}
   <title>{{ title }}</title>
 
