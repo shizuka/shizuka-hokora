@@ -1,4 +1,14 @@
-- name: leonids
-  descr: "Bacon ipsum dolor sit amet doner meatball jowl short ribs, chicken prosciutto salami frankfurter. Pig drumstick turducken short ribs, brisket meatloaf ham hock shankle andouille corned beef strip steak. Venison ham bresaola strip steak. Pork belly ribeye prosciutto t-bone."
-  image: pong.png
-  github: https://github.com/renyuanz/leonids
+- name: Confursion Wiki
+  descr: "Knowledgebase wiki for the Confursion universe"
+  website: https://confursion.hokora.page
+- name: Bolus Advisor
+  descr: "Single-page application for calculating insulin doses as a type 1 diabetic"
+  github: https://github.com/shizuka/bolus-advisor
+  website: https://hokora.page/bolus-advisor
+- name: Bronystate
+  descr: "Streaming site for the My Little Pony fanbase"
+  github: https://github.com/Bronystate/brstv3
+  website: http://www.bronystate.net
+- name: Hikaribot
+  descr: "Java IRC bot from my days at Ponychat IRC"
+  github: https://github.com/shizuka/hikaribot
