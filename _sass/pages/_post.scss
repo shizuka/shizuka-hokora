@@ -19,6 +19,12 @@
   }
 }
 
+.content-width-wrap {
+  width: 40rem;
+  margin: 0;
+  padding: 0;
+}
+
 .image-credit {
   float: right;
   font-weight: bold;
@@ -61,6 +67,7 @@ section.post {
 
 // Post meta
 .post-meta {
+  font-family: $font-family-sidebar;
   font-size: 13px;
   font-weight: bold;
 	.post-date {

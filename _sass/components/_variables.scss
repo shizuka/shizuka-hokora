@@ -3,7 +3,7 @@
  */
 
 // Google font import
-@import url(https://fonts.googleapis.com/css?family=Source+Sans+Pro:600,400,400italic|Roboto+Mono);
+@import url(https://fonts.googleapis.com/css?family=Source+Sans+Pro:600,400,400italic|Lora|Roboto+Mono|Macondo);
 
 // Custom variables
 
@@ -22,9 +22,11 @@ $border-width:               .0625rem !default;
 // Font, line-height, and color for body text, headings, and more.
 
 $font-family-sans-serif:     "Source Sans Pro", "Helvetica Neue", Helvetica, Arial, sans-serif !default;
-$font-family-serif:          Georgia, "Times New Roman", Times, serif !default;
+$font-family-serif:          "Lora", Georgia, "Times New Roman", Times, serif !default;
 $font-family-monospace:      "Roboto Mono", "Courier New", monospace !default;
-$font-family-base:           $font-family-sans-serif !default;
+$font-family-base:           $font-family-serif !default;
+$font-family-title:          "Macondo", $font-family-serif;
+$font-family-sidebar:        $font-family-sans-serif !default;
 
 // Pixel value used to responsively scale all typography. Applied to the `<html>` element.
 $font-size-root:             15px !default;

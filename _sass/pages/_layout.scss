@@ -31,6 +31,7 @@
 .cover-card {
   color: $text-color;
   padding: 0 30px;
+  font-family: $font-family-sidebar;
   .avatar {
     width: 150px;
     float: none;
@@ -42,6 +43,7 @@
     display: block;
     color: #E34234;
     font-size: 1.75em;
+    font-family: $font-family-title;
     text-transform: lowercase;
   }
   .author_job {
