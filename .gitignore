@@ -2,6 +2,7 @@ vendor/
 _site
 .sass-cache
 .directory
+.jekyll-metadata
 Thumbs.db
 _drafts
 .ruby-version
