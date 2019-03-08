@@ -2,7 +2,7 @@
 .post-listing {
   background-color: $white;
   position: absolute;
-  top: 400px;
+  top: 275px;
   z-index: 233;
   width: 100%;
   padding: 20px 20px 0;
@@ -23,6 +23,10 @@
   width: 40rem;
   margin: 0;
   padding: 0;
+
+  @media only screen and (max-width: $medium-screen) {
+    width: 100%;
+  }
 }
 
 .image-credit {
