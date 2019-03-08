@@ -31,6 +31,28 @@ layout: default
       </span>
       •
       {% include read_time.html %}
+      {% if page.categories.size > 0 %}
+      <br>
+      <span class="category">
+        <span class="fa fa-bookmark"></span>
+        <ul>
+          {% for cat in page.categories %}
+          <li>{{ cat }}</li>
+          {% endfor %}
+        </ul>
+      </span>
+      {% endif %}
+      {% if page.tags.size > 0 %}
+      <br>
+      <span class="category">
+        <span class="fa fa-tag"></span>
+        <ul>
+          {% for tag in page.tags %}
+          <li>{{ tag }}</li>
+          {% endfor %}
+        </ul>
+      </span>
+      {% endif %}
     </span>
 
   </header>

@@ -88,6 +88,29 @@ section.post {
   .read-time {
     color: $primary;
   }
+  .category {
+    color: $warning;
+    .fa {
+      color: $secondary;
+    }
+    ul {
+      margin: 0;
+      padding-left: 0.5ex;
+      display: inline-block;
+    }
+    li {
+      display: inline-block;
+      list-style-type: none;
+
+      &:after {
+        color: $secondary;
+        content: ",";
+      }
+      &:last-child:after {
+        content: "";
+      }
+    }
+  }
 }
 
 // Read more buttons
