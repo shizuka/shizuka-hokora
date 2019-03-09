@@ -92,7 +92,7 @@ defaults:
 #
 prose:
   rooturl: '_posts'
-  siteurl: https://shizuka.hokora.page
+  siteurl: https://shizuka.hokora.page/
   media: 'img'
   ignore:
     - /_layouts
@@ -100,6 +100,10 @@ prose:
     - _config.yml
   metadata:
     _posts:
+      - name: "layout"
+        field:
+          element: "hidden"
+          value: "post"
       - name: "title"
         field:
           element: "text"
