@@ -72,6 +72,11 @@ owner:
   reddit: #username
   telegram: #username
 
+#
+###################################
+# Defaults
+####################################
+#
 defaults:
   -
     scope:
@@ -79,3 +84,45 @@ defaults:
       type: "posts"
     values:
       layout: post
+
+#
+###################################
+# Prose.io configuration
+####################################
+#
+prose:
+  rooturl: '_posts'
+  siteurl: https://shizuka.hokora.page
+  media: 'img'
+  ignore:
+    - /_layouts
+    - /_includes
+    - _config.yml
+  metadata:
+    _posts:
+      - name: "title"
+        field:
+          element: "text"
+          label: "title"
+      - name: "categories"
+        field:
+          element: "multiselect"
+          label: "category"
+          alterable: true
+          options:
+            - name: "Confursion"
+              value: "confursion"
+            - name: "Journal of the Mundane"
+              value: "journal of the mundane"
+      - name: "tags"
+        field:
+          element: "multiselect"
+          label: "tags"
+          alterable: true
+          options:
+            - name: "vignettes"
+              value: "vignettes"
+            - name: "furry"
+              value: "furry"
+            - name: "gaming"
+              value: "gaming"
