@@ -25,6 +25,8 @@ like one.
 
 Hunt you like one.
 
+<!--more-->
+
 I pause at a crosswalk, my heart suddenly thrashing at my chest. It's been a
 month since you left all that behind, Shizuka. The race riots haven't reached
 the Pacific Northwest yet. You aren't the only anthro around, Seattle's too big
