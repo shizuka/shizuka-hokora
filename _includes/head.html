@@ -5,7 +5,9 @@
 {% endif %}
 
 {% if page.excerpt %}
-  {% capture description %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}{% endcapture %}
+{% capture nl %}
+{% endcapture %}
+{% capture description %}{{ page.excerpt | strip_html | newline_to_br | replace: "<br />", " " | strip_newlines | truncate: 160 }}{% endcapture %}
 {% else %}
   {% capture description %}{{ site.description }}{% endcapture %}
 {% endif %}
