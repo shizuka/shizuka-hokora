@@ -122,17 +122,115 @@ each other in the open field, pencil softly grazing the paper. James sighed and
 leaned backward over the bench.
 
 Doing something with his days off meant streaming video games to a small
-audience, he thought, not turning into one of the anthros. He already felt
-nervous enough every time he accompanied Trace to the local Softpaws clinic,
-visions of the charred remains of the Minneapolis branch the previous October
-burned into his memory. Sure, Union Aerospace had stepped up security for their
-spun-off anthro charity, but that didn't stop the crowds of rabid protesters.
+audience, he thought, not turning into one of the anthros. It was bad enough
+every time he escorted Trace to one of the Softpaws clinics. Visions of the
+bombing at the Minneapolis branch were seared into his memory. Sure, Union
+Aerospace had stepped up security for their spun-off anthro charity, but that
+didn't stop the crowds of rabid protesters.
 
 "Hey," Zack's voice interrupted his train of thought, "are you feeling okay?
 You're looking pale as hell." Something was itching at James' ears. He reached
-up a hand to scratch them, then stopped cold.
+up a hand to scratch them, then stopped cold. Human ears weren't supposed to be
+fuzzy.
 
-Human ears aren't fuzzy.
+A terrified curse slipped out of James' mouth as he fumbled for his phone's
+front camera. Zack folded his sketchpad shut and waved for the girls to hurry
+over. James stabbed at the camera controls to get it to flip, and finally got a
+look at what he'd felt. The tips of his ears had grown a point, and were coated
+in what looked to be the finest conceivable coat of white hairs, with a tinge of
+green around the rim. No, not hairs, he thought. *Fur*.
 
-A terrified curse slipped out of his mouth as he fumbled for his phone's front
-camera.
+In that moment, he wished for nothing more than to not have to witness the
+tremendous smile spreading across his girlfriend's face.
+
+* * *
+
+The rest of the week stubbornly proved to not be a dream. By the next morning,
+James' ears had stretched out and filled with velvety white fur, a clean band of
+green on the outer edge. The morning after that, he'd itched at a fresh blot of
+white poking out of his arm. The new ears were sensitive, and no longer fit his
+headphones, robbing him of one way of tuning out the day. On the third day,
+another patch of fur had cropped up on the other arm, and spread from shoulder
+to elbow.
+
+There was no denying it any longer, no wishing for it to go away. The anthropic
+shift had found its way to James Fletcher at last, and that could only mean one
+thing. He would soon have to join Trace at the...
+
+"Clinic!" she shouted, grinning ear to ear. "I gotta get my meds today and now
+you can come *in* with me! I'm so excited!"
+
+James rubbed an ear, turning it right side out. "I couldn't tell. There's no
+stopping it is there?" He leaned over the curb looking for their ride.
+
+Trace stopped vibrating. "Why would you want it to stop? It's so you!"
+
+He didn't have an answer. Not then, not on the bus a few minutes later. His
+hoodie never left the top of his head now, but anyone could see the telltale
+perk of anthro ears growing underneath. Despite his deep reservations about the
+process, he couldn't honestly say he actually wanted it to stop. A persistent
+little thought had cropped up, curious about what he was turning into. After
+classes, he joined Trace on their usual route through downtown Savannah to the
+Softpaws clinic, shoulders hunched, trying desperately to ignore the soft
+feelings of his upper arms against the fabric. His ears were painfully stiff
+under the hood, on high alert for dangerous passersby. Trace, naturally, was
+skipping ahead letting her tail sweep a wide arc behind her. 
+
+They had arrived at the clinic. An unassuming storefront tucked at the base of a
+skyscraper, a simple lit sign overhead announcing its presence: Softpaws. Behind
+a window hung the unofficially official symbol of the anthros, a hand encircling
+a pawprint. An assortment of rainbow flags lined the door for good measure.
+Inside, a pleasantly lit waiting room, a handful of people in varying stages of
+shift, a UAC Security guard, and the smiling receptionist Trace was now bouncing
+towards.
+
+"Welcome back, Trace," he said, scrolling a tablet behind the counter. "How have
+you been feeling?"
+
+"Oooh loving every day!" she replied, standing on tiptoes to see over the ledge.
+
+"Just the pickup today?"
+
+"Well, actually," Trace started, "we need to see the doc! My boyfriend here just
+started transforming this week!" James sheepishly raised his hand, noticing the
+tuft of white starting to peek out from the sleeve.
+
+"Ah! Well, in that case." The man tapped a keyboard for a few seconds. "Miss
+Lun, if you could wait just a moment while I check Mister, ah--"
+
+"Fletcher."
+
+"--Mister Fletcher in. It shouldn't take long." Trace skipped to a chair and
+burst into a yellow ball of fluff, her tail splayed out over the back.
+
+* * *
+
+"James?" An orderly stepped out from behind a door armed with a clipboard.
+
+"That's you, Fletchy!" Trace chirped. "Good luck!"
+
+James shuffled to his feet, hands firmly in his pockets, and followed the lady
+through the door. Why are hospitals always built like mazes, he wondered. One
+corner, then two, then a sudden stop at a scale and a height laser. He glanced
+at the clipboard as the orderly took notes, heart skipping a beat as she wrote
+his height down. Five foot nine. As far as he knew, he'd been five eleven since
+middle school.
+
+One more corner, then finally an exam room. "Right in here, sir. Could you take
+off your hoodie for me, please?" He undid the zipper front, then shrugged out,
+getting a good look for the first time that day. His right arm was covered in
+silky white fur down to the wrist, where some of it had formed a jagged pattern
+of green matching his ears. His left arm was halfway there. His ears twitched,
+happy to be free from the hood. It felt better. The orderly jotted down a few
+more notes.
+
+"Are there any other changes you've noticed?" she asked gently.
+
+"N-no. Just this. My girlfriend says it started on Monday with my ears."
+
+"Okay, then. You can relax in here for now. Doctor Sepulveda will be with you in
+a couple minutes." And with that, she left, closing the door behind her.
+
+*Fur*, he thought. This is *my fur* growing. James ran his left hand along the
+sleeve of white covering his arm. A spark pinged away somewhere in his mind, a
+long suppressed desire for this kind of softness.
