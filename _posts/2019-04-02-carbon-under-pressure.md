@@ -509,7 +509,7 @@ at stumbling over her words. "You mean Fletchy's not just my wolfy *boy*friend
 anymore?"
 
 "I think that's for your friend to decide," came a quiet voice from the corner.
-The rabbit was staring at the three. Intensely, but kindly.
+The rabbit was staring at them. Intensely, but kindly.
 
 "Which," Dr. Sepulveda started, releasing James' hand, "is why we called *her*
 in. This is Shizuka Valenheart." Another polite bow from the rabbit, whose eyes
@@ -556,7 +556,7 @@ unnatural. And this, it.. it doesn't feel *wrong*."
 
 "It feels just as unnatural now to fight it, doesn't it? If I had to guess, I'd
 say you've been waiting for something like this for most of your life." Shizuka
-stroked away a stray tear that had been rolling down his cheek.. "I think your
+stroked away a stray tear that had been rolling down his cheek. "I think your
 girlfriend out there has been waiting for it, too. She was positively radiant
 when Doc mentioned transitions. So let's cut to the chase." She rolled back
 slightly and knocked twice on the wall. A moment later, Trace and the Doc sat
@@ -571,10 +571,63 @@ his fur to dance, the softness lining up behind the spark. He opened his eyes
 again and looked at his fellow anthros. The lion, who gave no hesitation to
 validating this change. The rabbit, an angel summoned to give guidance. And the
 cat, faithful and vibrant, hanging expectantly for an answer. A lock of
-iridescent blue hair fell into view. Gleaming in the light, like the beautiful
-fur of the hand now examining it.
+iridescent blue hair fell into view, glittering in the light, just like the
+beautiful fur of the hand now examining it.
 
 "Jewel," she said at last. "Let's try Jewel for now."
 
 * * *
 
+Friday came and went, and the new wolf remained in bed for most of the day, her
+stomach turning from a combination of the previous night's revelation, and the
+throbbing aches from her waist growing a tail. Trace stopped by with a bottle
+from Softpaws, but despite her infectious enthusiasm, the wolf could hardly
+string two words together.
+
+A string of hazy dreams had set to the task of making sense of her feelings.
+Dull objections sounded from the back of her mind, feebly resisting the change
+in pronouns, but they were being lost in the warm love she found herself
+embracing. It would work out, somehow, she told herself. Trace wasn't going
+anywhere. Even though Zack and Joyce hadn't heard the news yet, she was sure
+they would stick with her, too. And school? They were reluctantly accepting her
+transformation into an anthro, if only because the distraction of the shift only
+lasted a few weeks, but Georgia had barely caught up to the gay rights movement
+from years ago, much less the transgender rights movement that followed. And
+even then, those girls would be changing over a much longer period, not a
+weekend. Maybe she wouldn't get to finish here.
+
+It sure felt good to switch over so quickly, though. Her dreams replayed the
+appointment again and again, pausing with excitement at the moment she chose her
+name, sinking into it as though she'd cast a magic spell. Jewel, what her hair
+had reminded her of in that instant, a gleaming gemstone playing with that pure
+white fur. Jewel, so similar to James that her friends would have little trouble
+changing. It fit, the same way her fur fit, the way her new tail would fit. The
+same way *she* fit. Jewel burrowed deeper into her blanket, feeling every strand
+of her fur settle.
+
+"I haven't met a fuzzie yet who wasn't happier afterwards."
+
+And she was.
+
+* * *
+
+Saturday dawn was interrupted by the appearance of a gray blanket on the
+horizon, and a sharp wind blowing ahead. The sunrise took on a misty gray as it
+lightened the bedroom. Shadows disappeared from the ground outside. Birds
+retreated to their nests, chirping to pass the time.
+
+Jewel stretched with a yawn, her back feeling like she'd slept on a lump the
+whole night. As she rubbed her eyes, she turned around to see that she had.
+Trace had crawled into the other side of the bed, her oversized tail now easily
+longer than her body, sprawled out in the middle of the blankets. And
+underneath, Jewel could see a thin ribbon of white, stiffly connected to her
+back. Her *tail*, a few feet long and covered in a thin coat of fur, poking
+above her pajamas. She had a feeling it wouldn't be so thin for long, an idea
+that sent a shiver down her spine. Or maybe that was the tail learning to
+twitch in excitement.
+
+She swung her legs off the bed and sat up, the base of her tail forcing her to
+adjust her posture. No more slouching over, she thought. A couple blinks tricked
+her brain into acknowledging the furry muzzle between her eyes, two rows of
+small green spots lining the corners. Jewel ran her fingers along the length,
+tickled by the sensation. 
