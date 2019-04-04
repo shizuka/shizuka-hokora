@@ -499,18 +499,82 @@ taking James' other hand. It looked so small now in comparison, delicate.
 *Feminine*. The lion easily covered it with his other paw. "It's not often, but
 we have seen cases where the anthropic shift doesn't just make you a fuzzie.
 Usually, those patients were already in some sort of hormonal transition when
-the payload chose them. In your case, maybe something else did it. Hell, I
-don't think we'll ever figure out just how this thing works." He turned James'
-hand over, causing the new wolf to choke up a little. "But it always works. I
-stand by what I said, sweetheart. I haven't met a fuzzie yet who wasn't happier
-afterwards."
+the payload chose them. In your case, maybe something else did it. Hell, I don't
+think we'll ever figure out just how this thing works." He turned James' hand
+over, causing the new wolf to choke up a little. "But it always works. I stand
+by what I said, dear. I haven't met a fuzzie yet who wasn't happier afterwards."
 
 Trace had resumed her usual vibrations. "So you mean he's-- she's--" She frowned
-for stumbling over her words. "You mean Fletchy's not just my wolfy *boy*friend
+at stumbling over her words. "You mean Fletchy's not just my wolfy *boy*friend
 anymore?"
 
 "I think that's for your friend to decide," came a quiet voice from the corner.
 The rabbit was staring at the three. Intensely, but kindly.
 
-"Which," Dr. Sepulveda started, releasing James' hand, "is why we called her
-in."
+"Which," Dr. Sepulveda started, releasing James' hand, "is why we called *her*
+in. This is Shizuka Valenheart." Another polite bow from the rabbit, whose eyes
+were now looking more directly at James, studying. "She's a liaison from a
+community called Furhaven, up in the Cascades. I called Ms. Valenheart to come
+visit when I saw your species report come back. Far as I know, we can make it
+just about anywhere, but an arctic wolf might be happier further from the Gulf."
+
+"But I have to finish school, I--" James paused again. *Could* he finish school?
+Faculty had gone along with the recommended accommodations for anthros, like
+being more lenient during the shift since the student would clearly have more
+pressing issues. But this was *Georgia*. It wasn't safe to be a... to be... the
+word wouldn't come to mind. Breathe. What would his parents think? He hadn't
+even called them since the shift started. Breathe. Would Trace still love him
+even if he were...
+
+* * *
+
+"Breathe." James blinked back tears to find the bunny, Shizuka, sitting directly
+in front of him, eyes level, a furry handpaw on both of his shoulders. "Come on
+now, breathe. I asked Doc and Ms. Lun to step outside for a bit." She gently
+rubbed his shoulders, relaxing the contorted hug he seemed to have put himself
+in. "There you go, honey. Breathe." She reached a hand up to wipe tears he
+didn't realize he'd been shedding. "You aren't worried about school, are you?"
+
+"I can't--" he choked, "I can't be a--" Shizuka put a finger to his muzzle.
+
+"Relax," she said gently, "I saw it the moment you came in tonight. Wouldn't
+have even needed Doc's explanation. You're not just shifting in form, are you
+honey?" All he could do was shake his head, a wilting sob forcing its way up
+through his throat. "When did your voice kick in?"
+
+"Y-Yesterday," he squeaked. Those soldiers defending his human self were making
+a brave stand. The only good it did was to make him shudder again.
+
+"And now you're torn between who you used to be and who you're turning into.
+That was easier when you thought you were just turning furry, and I bet I can
+guess who's starting to win." James nodded, decidedly unmanly sounds freely
+issuing from his muzzle. Words weren't quite cooperating. "But, how are you
+feeling about it?"
+
+"It felt *right*," he finally managed to say, "like *not* having fur was
+unnatural. And this, it.. it doesn't feel *wrong*."
+
+"It feels just as unnatural now to fight it, doesn't it? If I had to guess, I'd
+say you've been waiting for something like this for most of your life." Shizuka
+stroked away a stray tear that had been rolling down his cheek.. "I think your
+girlfriend out there has been waiting for it, too. She was positively radiant
+when Doc mentioned transitions. So let's cut to the chase." She rolled back
+slightly and knocked twice on the wall. A moment later, Trace and the Doc sat
+down in their chairs again. The lion closed his eyes and nodded at the golden
+cat.
+
+"So, um, what should I call you now, Fletchy?" Trace whispered.
+
+James closed his eyes, cheeks becoming damp. A spark of memory, descending upon
+that mental battlefield to light a warm flame. The tremble in his hands causing
+his fur to dance, the softness lining up behind the spark. He opened his eyes
+again and looked at his fellow anthros. The lion, who gave no hesitation to
+validating this change. The rabbit, an angel summoned to give guidance. And the
+cat, faithful and vibrant, hanging expectantly for an answer. A lock of
+iridescent blue hair fell into view. Gleaming in the light, like the beautiful
+fur of the hand now examining it.
+
+"Jewel," she said at last. "Let's try Jewel for now."
+
+* * *
+
