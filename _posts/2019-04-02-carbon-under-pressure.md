@@ -336,14 +336,16 @@ being a presence online, a sign that they weren't alone in their own shifts.
 By Monday morning, the fur had found its way partly down James' chest and back.
 His fingernails were developing a black ombre from the base, hardening more than
 usual. The remnants of his attempted beard were completely gone, a pale white
-tint taking its place under the skin, heralding the fur to come. Trace refused
-to let him skip any more classes, dragging him out of bed to start the new week.
+tint taking its place under the skin, heralding the fur to come. He realized his
+glasses made the world painfully blurry, his eyes adjusting to crisp details
+he'd never seen before.
 
-She refused to let him hide in a hooded sweater, too. As much as he wanted to
-avoid being seen in his partially-shifted state, he couldn't object to not
-squashing his ears under a hood. They felt so much better in open air. Besides,
-he finally reasoned, if anyone should start trouble, they would have four feet
-of raw yellow energy to deal with.
+Trace refused to let him skip any more classes, dragging him out of bed to start
+the new week. She refused to let him hide in a hooded sweater, too. As much as
+he wanted to avoid being seen in his partially-shifted state, he couldn't object
+to not squashing his ears under a hood. They felt so much better in open air.
+Besides, he finally reasoned, if anyone should start trouble, they would have
+four feet of raw yellow energy to deal with.
 
 Good thing, too. He could have sworn he'd dropped another inch.
 
@@ -757,28 +759,28 @@ Felix! I need help..." The phone slipped out of her shaking hand.
 
 * * *
 
-"It's discrimination, plain and simple!" a voice was shouting. Female. "Damn
-these primates, do they ever learn?"
+"How could they just leave her out there?" a voice was shouting. Female.
+"*Verdammt diese Menschen*, we're not *animals*!"
 
 "Georgia's not on board with the Anthro Affirmation Act," another voice replied,
-softly. Male. "I should have talked with their president."
+softly. Male. "I talked with the university dean, he wasn't very polite."
 
 Jewel opened her eyes slowly, then winced. She was sitting down, in a chair with
-an open back that felt just right for a tail. Her arms were holding her stomach
-tight, a furious burning sensation coming from a few inches further down. Her
-whole body felt wet, the soft fur pinned down all over. She let out a pained
-moan to stop the shouting match.
+an open back that felt just right for a tail. Her arms held her stomach tight, a
+furious burning sensation coming from a few inches further down. Her whole body
+felt wet, the soft fur pinned down all over. She let out a pained moan to stop
+the shouting match.
 
 "You're safe, my dear." The familiar baritone of Dr. Sepulveda vibrated her
 body. "Miss Lun and your friends carried you here after I got your call. I'm
-afraid the, ah, plumber arrived a lot sooner than we thought."
+afraid your, ah, plumber arrived a lot sooner than we thought."
 
 Jewel looked around the room. She was seated in a larger exam room at Softpaws,
 it seemed, large enough to hold herself, Dr. Sepulveda, Trace, Joyce, Zack,
 Shizuka Valenheart of Furhaven, a tall vixen in a colorful dress fuming at
 something out the window, and a similarly tall grey marten in a rather informal
 looking suit. Her friends were seated nearby, alternating between concern for
-Jewel, and sympathetic anger with the fox woman.
+Jewel, and sympathetic anger with the fox.
 
 "Why.. hurt.." was about all Jewel could put together.
 
@@ -788,9 +790,9 @@ cases like yours, but they had fur come in last, not first."
 
 The marten crossed the room, offering his hand. "Introductions are in order. I'm
 Maarten van Holstruk, Chief Executive Officer of the Union Aerospace
-Corporation." She gave a weak handshake before resuming her doubled-over
-position. "I don't get to use the full title much, these days. Most people just
-call me Patient Zero."
+Corporation." His tone was calm and level. She gave a weak handshake before
+resuming her doubled-over position. "I don't get to use the full title much,
+these days. Most people just call me Patient Zero."
 
 Jewel wanted to be more enthusiastic about meeting *the* celebrity of the anthro
 world, but couldn't get past the pain in her lower body. Shizuka joined the
@@ -808,7 +810,7 @@ you might be needing it."
 next to Trace. "Safe and well away from humans, for the most part. Room enough
 for all four of you. Savannah isn't going to be safe for long, and we haven't
 had luck getting to new residents before their situations did." The vixen swore
-something foreign, German probably.
+again, something dark and German.
 
 "There are closer sanctuaries suited for an arctic fox," van Holstruk continued,
 "but Ms. Valenheart here asked to rehome you to Furhaven, specifically."
@@ -817,8 +819,75 @@ Another pulse from her groin made Jewel yelp, a pained cry that turned into a
 wolflike howl.
 
 "We'll let you guys think about it," the rabbit said, resting a hand around
-Jewel's cheek. "Let your friend get through this first, and we'll talk again
-tomorrow."
+Jewel's cheek. "Let your friend get through *this* first, and we'll talk again
+later."
 
 * * *
 
+A steady beep burrowed into Jewel's ears, gently rousing her from a fitful
+sleep. Dr. Sepulveda had insisted she stay the night at the Softpaws clinic. She
+found herself loosely dressed in a hospital gown, her tail resting around her
+thighs. Rain pattered the windows, a beautiful, if dim and gray, vista of
+downtown Savannah. Trace was sound asleep in an armchair on one side, the
+massive yellow shock of a tail serving as a full body pillow. On her other side,
+the tall vixen reclined on a small double-wide couch, reading a paperback in her
+lap. Shizuka the rabbit was snoring quietly on her shoulder, a long, orange ear
+lopped around her arms.
+
+Jewel's head felt heavy, and a dull ache resounded from every corner of her
+body. Everything below her waist felt numb. She bent her knees slightly,
+relieved that nothing was paralyzed, enjoying the detached feeling of her fur
+rubbing on the sheets. She tried sitting up, rewarded with a wave of dizziness,
+and a confused moan. The vixen looked up from her book.
+
+"Easy, there, you've got a few hours yet," she said in a soft German accent.
+"How are you feeling?" Jewel braced her hands on the bed to keep from falling
+over. "Here," she added, handing the wolf a cup of water, "you probably need
+some of this."
+
+"Who are you?" Jewel asked, downing the water in one gulp.
+
+"Hmm, you *were* out of it when they brought you in," the fox said, chuckling.
+"I am Marina Hasenkamp, I tend bar." Jewel blinked, confused. "Sorry, couldn't
+resist. I can't really compare to you getting to meet the king of the furries.
+I'm here with the Furhaven outreach crew, mostly to keep an eye on the bunny."
+
+Jewel frowned, looking around the room. "Where did everyone go?"
+
+"Your friends, the tiger and his human, left with Maarten a few hours ago. Doc's
+with another patient, and your girlfriend over there wouldn't leave you no
+matter how sleepy she got. So Shizu and I kept watch. It is almost six in the
+morning." Marina stretched, a scratchy yawn filling the air. "How are you
+feeling?" she asked again.
+
+"Sore," said Jewel, stretching herself, "like I got hit by a truck." She glanced
+down, her cheeks warm. She didn't need to look to know what had happened down
+there. "It almost feels like I'm--"
+
+"Complete," Marina finished. "Like you've needed it your whole life." She turned
+to look at a monitor above the bed and laughed. "Sepulveda bet too high, you're
+just about done now. Your legs are the last to go."
+
+A tingle from her ankles seemed to agree. Jewel pulled back the covers to see
+her feet, fully covered in white fur. Soft black pads had formed on the base of
+her toes and the ball of each foot, the arches pulled up to meet her ankles,
+bent backwards. She dug through the numbness to wiggle her toes, sensing the
+chain of muscles in the arches that would support her weight from now on.
+
+"What happens now?" she wondered.
+
+Marina stretched again, causing Shizuka to stir awake. "Your friends sounded
+like they would be happy to go with you however you decide. I am sure Trace
+will, too. So what do you think?"
+
+"What about my classes?" Jewel hung her head. "They kicked me out."
+
+Shizuka rubbed her eyes and leaned forward. "We'll take care of that. Seattle U
+has a deal with us to transfer credits, and Furhaven has an emergency fund for
+smoothing a rehome like this. Maybe not *all* of it, but we can get you settled,
+no problem."
+
+Jewel hugged her shoulders together, calmed by the everpresent softness of her
+fur. "Okay," she breathed. "Yes, I want to go."
+
+* * *
