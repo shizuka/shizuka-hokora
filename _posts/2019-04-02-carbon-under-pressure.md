@@ -620,8 +620,8 @@ Jewel stretched with a yawn, her back feeling like she'd slept on a lump the
 whole night. As she rubbed her eyes, she turned around to see that she had.
 Trace had crawled into the other side of the bed, her oversized tail now easily
 longer than her body, sprawled out in the middle of the blankets. And
-underneath, Jewel could see a thin ribbon of white, stiffly connected to her
-back. Her *tail*, a few feet long and covered in a thin coat of fur, poking
+underneath, Jewel could see a thin ribbon of white, stiffly connected to her own
+back. *Her tail*, a few feet long and covered in a thin coat of fur, poking
 above her pajamas. She had a feeling it wouldn't be so thin for long, an idea
 that sent a shiver down her spine. Or maybe that was the tail learning to
 twitch in excitement.
@@ -630,4 +630,195 @@ She swung her legs off the bed and sat up, the base of her tail forcing her to
 adjust her posture. No more slouching over, she thought. A couple blinks tricked
 her brain into acknowledging the furry muzzle between her eyes, two rows of
 small green spots lining the corners. Jewel ran her fingers along the length,
-tickled by the sensation. 
+tickled by the sensation. Speaking of tickling, the sparkling fur had reached
+her ankles, and her feet had turned pale in anticipation. On the table, Trace
+had left the bottle of pills and a written letter from Dr. Sepulveda.
+
+"You're making wonderful progress, but the easiest changes are behind you.
+Expect a lot of discomfort over the next week. Your tail is starting, and I
+expect it to finish by the end of the weekend. You've also begun to develop
+breast tissue, and there's a good chance you should see some plumbing be
+rearranged downstairs before this is over. As a wolf, your lower legs will start
+shifting to a digitigrade posture any day now, which will likely be the most
+painful experience. Take this prescription as needed to handle the strain, and
+be sure to exercise your new joints. See me next Friday or as soon as you finish
+the shift, you'll know when that is. Call this number if you have any troubles.
+Good luck, Jewel! --Doc"
+
+She put down the note and picked up the bottle, turning it over in her hands.
+The pills contained a mixture of half the alphabet she couldn't make sense of,
+but the instructions, "TAKE AS NEEDED FOR PAIN," were clear enough. The bottle,
+too, returned to the table, as Jewel rose to her feet. Let the rest of the week
+pass quickly, she thought. Get it over with.
+
+Trace stirred on the bed behind her, turning over to grab hold of her giant
+tail, and smiled up at Jewel shifting her weight on her heels. "You look silly,"
+she giggled. Trace rolled closer to the edge of the bed, and gave Jewel's
+nascent tail a gentle tug. Jewel yipped and spun around, conjuring the best
+glare she could manage with her new facial muscles.
+
+"That's attached to me, you know," she said, dialing for a pout rather than a
+glare.
+
+Trace giggled. "I had to make sure. I could have been growing a new color."
+Jewel sat back down on the bed, while Trace propped herself up on her elbows.
+"You haven't looked this happy in.. I guess since we were kids."
+
+Jewel gave a long, deep sigh. "I haven't *felt* this good for as long as I can
+remember. I know I was freaking out this week but now," she hugged herself
+tight, rubbing her arms, "now it just feels *right*. Like I'm home. Did it feel
+like this for you?"
+
+"Yeah, I suppose," Trace pondered, reaching out a hand to compare their
+heights, "but let's be honest I haven't really changed *that* much. You,
+though," she trailed off.
+
+They sat in silence for a moment. Jewel continued rubbing her shoulders, and
+turned her head away.
+
+"I wanted this," she finally said, "all my life I dreamed of this. I just didn't
+think it could happen in my lifetime." She tried a smile and turned back around.
+"Or that I would turn furry, too."
+
+Trace hummed gently, leaning forward to pull her girlfriend into a well-deserved
+hug.
+
+* * *
+
+Monday arrived before they realized it, having spent the weekend getting to know
+each other better than ever before. Jewel's tail finished overnight, a lavishly
+soft burst of light with the same banded pattern of green as on her wrists and
+ankles. She couldn't resist wagging it back and forth whenever she walked. Her
+feet had grown their fur, and as she tried to climb out of bed, she found her
+ankles be painfully stiff. It felt easier to walk on her tiptoes after taking a
+tablet from the Softpaws bottle.
+
+And the Doc was right on the timing -- a pair of mounds had started to lift her
+chest, visibly inflating even her darkest hoodie. Trace stopped home the
+previous night, collecting simple outfits from the time just a month or two
+before when she was Jewel's height, now a measly five foot four. She had
+purchased a skirt early on that would accommodate a tail, then promptly shrunk
+out of its size. Still, it fit Jewel now. There wouldn't be any concealing the
+extent of her shift.
+
+The commute passed uneventfully -- the businessman had become a rather handsome
+black lab, the deer couple behind him cuddling at just the right angle to avoid
+tangling their antlers. At their park bench on campus, Zack and Joyce both gave
+Jewel their best hugs, with Trace having to physically pull the remaining human
+off of her girlfriend. It felt strange to not be the tallest in the group
+anymore.
+
+Classes passed with less ease. Jewel and Trace were still the only two anthros
+in the class learning about functions and objects and compilers, and now that
+she'd undergone a gender shift as well, Jewel sensed a tense charge in the air.
+Instructors gave a dark look when her soprano voice rang out during a roll call.
+Her classmates, already content to pay her no mind when she was merely missing
+or sleeping, now seemed to actively avoid her gaze, preferring to stare behind
+her back. If not for Trace's reputation in the gym, retaining all of her former
+strength packed into a more compact form, Jewel was sure something would happen
+in the classroom.
+
+Instead, she found a security guard standing outside her last class of the day.
+
+"Sorry, you can't come in here," he barked, uniform crisp and impeccable.
+
+"What?" Jewel stepped back in surprise. "I've been taking this class for weeks!
+What do you mean I can't come in?"
+
+"You're not on the roster, Miss..."
+
+"Fletcher. Jewel Fle--" she blinked, "I mean, James Fletcher."
+
+The burly man pulled out a tablet and began to scroll. "Yeah no, the James
+Fletcher I've got on my list is a human male. There aren't any animals in this
+class."
+
+"I've been shifting for two weeks, *in* class!" Her instincts were telling her
+to fight another day, but her conscience was still asking to stand her ground.
+
+"I don't care if you're dressed in drag, lady. You're not on the list, you don't
+come in, and that's final." He crossed his arms, sneering down from his six foot
+perch. Jewel suddenly felt very vulnerable, spotting the radio near one of his
+hands, and a Taser within reach of the other. She backed away slowly, before
+turning around a corner and breaking into a run. She didn't stop until she
+collapsed on her park bench.
+
+The gray blanket had dominated the sky all weekend, and at last she felt a
+droplet splat on her snout. Her heart was still beating a rapid tattoo,
+adrenaline coursing through her veins. She suddenly became aware of the severe
+cramp both ankles had developed, which only seemed to tighten the further she
+got from the flight response. Jewel pawed at her pocket to retrieve her phone,
+and dialed the number Dr. Sepulveda had left her.
+
+"Softpaws Savannah, how can I direct you?" greeted a pleasant male voice.
+
+Jewel struggled between heaving breaths. "I need.. Doc.. Spul.. Sepal.. Doc
+Felix! I need help..." The phone slipped out of her shaking hand.
+
+* * *
+
+"It's discrimination, plain and simple!" a voice was shouting. Female. "Damn
+these primates, do they ever learn?"
+
+"Georgia's not on board with the Anthro Affirmation Act," another voice replied,
+softly. Male. "I should have talked with their president."
+
+Jewel opened her eyes slowly, then winced. She was sitting down, in a chair with
+an open back that felt just right for a tail. Her arms were holding her stomach
+tight, a furious burning sensation coming from a few inches further down. Her
+whole body felt wet, the soft fur pinned down all over. She let out a pained
+moan to stop the shouting match.
+
+"You're safe, my dear." The familiar baritone of Dr. Sepulveda vibrated her
+body. "Miss Lun and your friends carried you here after I got your call. I'm
+afraid the, ah, plumber arrived a lot sooner than we thought."
+
+Jewel looked around the room. She was seated in a larger exam room at Softpaws,
+it seemed, large enough to hold herself, Dr. Sepulveda, Trace, Joyce, Zack,
+Shizuka Valenheart of Furhaven, a tall vixen in a colorful dress fuming at
+something out the window, and a similarly tall grey marten in a rather informal
+looking suit. Her friends were seated nearby, alternating between concern for
+Jewel, and sympathetic anger with the fox woman.
+
+"Why.. hurt.." was about all Jewel could put together.
+
+"I'm sorry, dear, predicting the shift is an inexact science." Dr. Sepulveda
+handed Trace a towel to help dry Jewel's hair. "I told you, I've only seen a few
+cases like yours, but they had fur come in last, not first."
+
+The marten crossed the room, offering his hand. "Introductions are in order. I'm
+Maarten van Holstruk, Chief Executive Officer of the Union Aerospace
+Corporation." She gave a weak handshake before resuming her doubled-over
+position. "I don't get to use the full title much, these days. Most people just
+call me Patient Zero."
+
+Jewel wanted to be more enthusiastic about meeting *the* celebrity of the anthro
+world, but couldn't get past the pain in her lower body. Shizuka joined the
+vixen at the window.
+
+"I'll get to it, miss. I founded Softpaws in order to better serve anthros like
+yourself. Those whose home lives are made difficult by the shift. We help
+support communities like theirs," he pointed a thumb over his shoulder at the
+rabbit and fox, "so that there's a safe place to turn. And in your case, I think
+you might be needing it."
+
+"What do you mean?" Trace asked, gently blotting Jewel's ears.
+
+"He means we're offering you a new home," said Shizuka, padding over to crouch
+next to Trace. "Safe and well away from humans, for the most part. Room enough
+for all four of you. Savannah isn't going to be safe for long, and we haven't
+had luck getting to new residents before their situations did." The vixen swore
+something foreign, German probably.
+
+"There are closer sanctuaries suited for an arctic fox," van Holstruk continued,
+"but Ms. Valenheart here asked to rehome you to Furhaven, specifically."
+
+Another pulse from her groin made Jewel yelp, a pained cry that turned into a
+wolflike howl.
+
+"We'll let you guys think about it," the rabbit said, resting a hand around
+Jewel's cheek. "Let your friend get through this first, and we'll talk again
+tomorrow."
+
+* * *
+
