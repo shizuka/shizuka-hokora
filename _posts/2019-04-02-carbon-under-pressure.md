@@ -1,6 +1,6 @@
 ---
 layout: post
-published: false
+published: true
 title: Carbon Under Pressure
 categories:
   - confursion
