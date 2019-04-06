@@ -760,7 +760,7 @@ Felix! I need help..." The phone slipped out of her shaking hand.
 * * *
 
 "How could they just leave her out there?" a voice was shouting. Female.
-"*Verdammt diese Menschen*, we're not *animals*!"
+"*Verdammt diese Primaten*, we're not *animals*!"
 
 "Georgia's not on board with the Anthro Affirmation Act," another voice replied,
 softly. Male. "I talked with the university dean, he wasn't very polite."
@@ -828,11 +828,12 @@ A steady beep burrowed into Jewel's ears, gently rousing her from a fitful
 sleep. Dr. Sepulveda had insisted she stay the night at the Softpaws clinic. She
 found herself loosely dressed in a hospital gown, her tail resting around her
 thighs. Rain pattered the windows, a beautiful, if dim and gray, vista of
-downtown Savannah. Trace was sound asleep in an armchair on one side, the
-massive yellow shock of a tail serving as a full body pillow. On her other side,
-the tall vixen reclined on a small double-wide couch, reading a paperback in her
-lap. Shizuka the rabbit was snoring quietly on her shoulder, a long, orange ear
-lopped around her arms.
+downtown Savannah. One window was opened slightly, letting a cool breeze
+circulate around the room. Trace was sound asleep in an armchair on one side,
+the massive yellow shock of a tail serving as a full body pillow. On her other
+side, the tall vixen reclined on a small double-wide couch, reading a paperback
+in her lap. Shizuka the rabbit was snoring quietly on her shoulder, a long,
+orange ear lopped around her arms.
 
 Jewel's head felt heavy, and a dull ache resounded from every corner of her
 body. Everything below her waist felt numb. She bent her knees slightly,
@@ -876,18 +877,79 @@ chain of muscles in the arches that would support her weight from now on.
 
 "What happens now?" she wondered.
 
-Marina stretched again, causing Shizuka to stir awake. "Your friends sounded
-like they would be happy to go with you however you decide. I am sure Trace
-will, too. So what do you think?"
+Marina stretched again. "Your friends sounded like they would be happy to go
+with you however you decide. I'm sure Trace will, too. It is up to you."
 
-"What about my classes?" Jewel hung her head. "They kicked me out."
+Jewel hugged herself lightly, rubbing the fur on her shoulders. A new home, away
+from humans who might want to hurt her. Her friends would be with her, and she
+could make new friends.
 
-Shizuka rubbed her eyes and leaned forward. "We'll take care of that. Seattle U
-has a deal with us to transfer credits, and Furhaven has an emergency fund for
-smoothing a rehome like this. Maybe not *all* of it, but we can get you settled,
-no problem."
+"What about my classes?" she said quietly. "They kicked me out and I still have
+to pay the loans. And clothes."
 
-Jewel hugged her shoulders together, calmed by the everpresent softness of her
-fur. "Okay," she breathed. "Yes, I want to go."
+"We can help with that," Marina said with a smile. "We have an agreement with
+Seattle U to transfer credits from anywhere, and there is a little economy that
+will support us really well, including a pair of skilled tailors. There is a
+railroad that brings good This year we
+have been visiting these clinics looking for anthros who need a new home. And we
+found you."
+
+"But why me?" Jewel asked, calming herself with the softness of her fur.
+
+"*Meine Karotte* senses things about people sometimes. She couldn't bear to
+leave you here, even with your wonderful friends." She stroked the rabbit's ear.
+
+"When could we leave?" asked Jewel, examining the pattern in her gown. Marina
+looked up and smiled.
+
+"Whenever you are ready," the fox smiled.
+
+"Okay." Jewel took a deep breath, savoring the smell of rain, the tiny currents
+of air tickling her fur. "Okay. Yes, I want to go."
 
 * * *
+
+"We get to go on a jet! This is so cool!" Joyce hadn't stopped gushing to Zack
+about their travel arrangements since the group arrived at the airport. Jewel
+stood hand in hand with Trace, the cat's tail curled up around her girlfriend's
+waist. Shizuka and Marina were in discussion with patient zero Maarten van
+Holstruk, an idea for open shelters for anthros without a home. Ahead, a human
+Union Aerospace crew was busy preparing the company plane that would take them
+all west. A dying rain fell on the tarmac, a waxing moon occasionally peeking
+through the clouds.
+
+They had spent the previous day packing Jewel's apartment, then Trace's when
+they realized there wasn't much to pack. Zack and Joyce had decided they would
+come back for their things after checking out Furhaven. The morning before their
+flight, Shizuka had filled Jewel in on as many details about the village as she
+could, about the great lodge most of them lived in, the fledgling medieval town
+growing by the lake, the dozens of greenhouses growing exotic fruits and
+vegetables normally impossible in the climate of the Cascades. Jewel felt the
+last traces of worry melting away, the chance to start fresh among anthros like
+herself too important to miss.
+
+A fuel truck detached its hose from the plane's wing, while a single baggage
+cart rolled up to the tail. So much coordination for such a small thing, Jewel
+thought, unsure if her subconscious meant the plane or herself. Patient zero
+himself, arriving at just the right time for the anthropic shift to upend her
+life. Her girlfriend, shifted only a few weeks earlier. Zack Tsarni, shifted in
+the early days, yet remained strong enough to stick by his friends. Joyce, who
+wanted so much to transform like her sister, and hadn't yet had the chance. The
+rabbit and the fox, an unlikely pair, putting their life on hold to save others.
+And Jewel, adapting so gracefully to the changes that had been thrown at her.
+
+The baggage truck pulled away, and a group of crewmen approached the terminal
+where Jewel stood with her family. They ushered the anthros out onto the tarmac
+under umbrellas, to a staircase perched on the side. Maarten van Holstruk
+climbed first, followed by Shizuka and Marina, still chatting about their ideas.
+Joyce practically skipped up the stairs, dragging an equally enthusiastic tiger
+behind her.
+
+Trace took an umbrella from the crew, leading her girlfriend up the stairs. At
+the top, Jewel paused and closed her eyes, turning her head up toward the
+clouds. Stray raindrops splashed off her face, a baptism for the new wolf and
+her new life. The grass in the airfield flooded her snout with an intoxicating
+aroma. A great smile crawled across her face, and she opened her eyes to see the
+moon smiling back. Jewel howled at it, a bright flame in her heart.
+
+At last, she turned around, and followed her anthro girlfriend into the plane.
