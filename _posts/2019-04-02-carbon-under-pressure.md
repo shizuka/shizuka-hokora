@@ -168,13 +168,13 @@ Trace stopped vibrating. "Why would you want it to stop? It's so you!"
 He didn't have an answer. Not then, not on the bus a few minutes later. His
 hoodie never left the top of his head now, but anyone could see the telltale
 perk of anthro ears growing underneath. Despite his deep reservations about the
-process, he couldn't honestly say he actually wanted it to stop. A persistent
-little thought had cropped up, curious about what he was turning into. After
-classes, he joined Trace on their usual route through downtown Savannah to the
-Softpaws clinic, shoulders hunched, trying desperately to ignore the soft
-feelings of his upper arms against the fabric. His ears were painfully stiff
-under the hood, on high alert for dangerous passersby. Trace, naturally, was
-skipping ahead letting her tail sweep a wide arc behind her. 
+process, he couldn't honestly say he wanted it to stop. A persistent little
+thought had cropped up, curious about what he was turning into. After classes,
+he joined Trace on their usual route through downtown Savannah to the Softpaws
+clinic, shoulders hunched, trying desperately to ignore the soft feelings of his
+upper arms against the fabric. His ears were painfully stiff under the hood, on
+high alert for dangerous passersby. Trace, naturally, was skipping ahead letting
+her tail sweep a wide arc behind her. 
 
 They had arrived at the clinic. An unassuming storefront tucked at the base of a
 skyscraper, a simple lit sign overhead announcing its presence: Softpaws. Behind
@@ -265,11 +265,11 @@ are in a week, I'd say you'll be done in another week or two, tops."
 James caught himself retreating into his shoulders. "Will it hurt?"
 
 Dr. Sepulveda sighed, his smile still in place. "There's a chance. Depends what
-you're turning into. Once we pin down your species we can prescribe something to
-help smooth the transformation. No doubt you've noticed your girlfriend's tail
-is still growing." He chuckled gently, a deep, yet comforting boom. "All my
+you're turning into. Once we pin down your species, we can prescribe something
+to help smooth the transformation. No doubt you've noticed your girlfriend's
+tail is still growing." He chuckled gently, a deep, yet comforting boom. "All my
 patients so far have said it never *hurt*, but there's plenty of discomfort to
-going around. You've probably been itching a lot this week, can you imagine how
+go around. You've probably been itching a lot this week, can you imagine how
 much it sucked to grow *this*?" He shook his head a couple times, his mane
 waving all over, earning a small laugh from James. "But like I said, anthropic
 shift gets in and gets done before you know it."
@@ -306,8 +306,8 @@ time.
 
 Dr. Sepulveda stretched with a roar quieter than James thought possible.
 "Everyone says the same thing. Maybe the shift picks us because it knows we'll
-be happier somehow. I haven't met a fuzzie yet who isn't. Lift up your arm for
-me, son."
+be happier somehow. I haven't met a fuzzie yet who isn't. Lift your arm for me,
+son."
 
 The lion reached towards James' armpit with a small pair of scissors with
 oversized handles, clipping a tuft of fur from the arm where no one would see it
@@ -489,7 +489,7 @@ honestly still good news."
 James braced his shoulders. "G-good news first."
 
 "Based on the fur sample, looks like you're well on your way to becoming a
-perfectly healthy arctic fox. Wouldn't be *my* first choice for someone living
+perfectly healthy arctic wolf. Wouldn't be *my* first choice for someone living
 in the South, but there you have it. Our estimate says the payload has another
 eight or nine days to finish, but given how far along you look, I'd say it could
 be as low as six."
@@ -560,7 +560,7 @@ unnatural. And this, it.. it doesn't feel *wrong*."
 say you've been waiting for something like this for most of your life." Shizuka
 stroked away a stray tear that had been rolling down his cheek. "I think your
 girlfriend out there has been waiting for it, too. She was positively radiant
-when Doc mentioned transitions. So let's cut to the chase." She rolled back
+when Doc mentioned transitions. So, let's cut to the chase." She rolled back
 slightly and knocked twice on the wall. A moment later, Trace and the Doc sat
 down in their chairs again. The lion closed his eyes and nodded at the golden
 cat.
@@ -570,7 +570,7 @@ cat.
 James closed his eyes, cheeks becoming damp. A spark of memory, descending upon
 that mental battlefield to light a warm flame. The tremble in his hands causing
 his fur to dance, the softness lining up behind the spark. He opened his eyes
-again and looked at his fellow anthros. The lion, who gave no hesitation to
+again, and looked at his fellow anthros. The lion, who gave no hesitation to
 validating this change. The rabbit, an angel summoned to give guidance. And the
 cat, faithful and vibrant, hanging expectantly for an answer. A lock of
 iridescent blue hair fell into view, glittering in the light, just like the
@@ -707,8 +707,7 @@ The commute passed uneventfully -- the businessman had become a rather handsome
 black lab, the deer couple behind him cuddling at just the right angle to avoid
 tangling their antlers. At their park bench on campus, Zack and Joyce both gave
 Jewel their best hugs, with Trace having to physically pull the remaining human
-off of her girlfriend. It felt strange to not be the tallest in the group
-anymore.
+off her girlfriend. It felt strange to not be the tallest in the group anymore.
 
 Classes passed with less ease. Jewel and Trace were still the only two anthros
 in the class learning about functions and objects and compilers, and now that
@@ -716,7 +715,7 @@ she'd undergone a gender shift as well, Jewel sensed a tense charge in the air.
 Instructors gave a dark look when her soprano voice rang out during a roll call.
 Her classmates, already content to pay her no mind when she was merely missing
 or sleeping, now seemed to actively avoid her gaze, preferring to stare behind
-her back. If not for Trace's reputation in the gym, retaining all of her former
+her back. If not for Trace's reputation in the gym, retaining all her former
 strength packed into a more compact form, Jewel was sure something would happen
 in the classroom.
 
@@ -763,7 +762,7 @@ Felix! I need help..." The phone slipped out of her shaking hand.
 "*Verdammt diese Primaten*, we're not *animals*!"
 
 "Georgia's not on board with the Anthro Affirmation Act," another voice replied,
-softly. Male. "I talked with the university dean, he wasn't very polite."
+softly. Male. "I talked with the university dean; he wasn't very polite."
 
 Jewel opened her eyes slowly, then winced. She was sitting down, in a chair with
 an open back that felt just right for a tail. Her arms held her stomach tight, a
@@ -812,11 +811,12 @@ for all four of you. Savannah isn't going to be safe for long, and we haven't
 had luck getting to new residents before their situations did." The vixen swore
 again, something dark and German.
 
-"There are closer sanctuaries suited for an arctic fox," van Holstruk continued,
-"but Ms. Valenheart here asked to rehome you to Furhaven, specifically."
+"There are closer sanctuaries suited for an arctic wolf," van Holstruk
+continued, "but Ms. Valenheart here asked to rehome you to Furhaven,
+specifically."
 
 Another pulse from her groin made Jewel yelp, a pained cry that turned into a
-wolflike howl.
+wolf-like howl.
 
 "We'll let you guys think about it," the rabbit said, resting a hand around
 Jewel's cheek. "Let your friend get through *this* first, and we'll talk again
@@ -890,9 +890,9 @@ to pay the loans. And clothes."
 "We can help with that," Marina said with a smile. "We have an agreement with
 Seattle U to transfer credits from anywhere, and there is a little economy that
 will support us really well, including a pair of skilled tailors. There is a
-railroad that brings good This year we
-have been visiting these clinics looking for anthros who need a new home. And we
-found you."
+railroad that brings supplies to the valley, and we hope it can bring new
+people, too. This year we have been visiting these clinics looking for anthros
+who need a new home. And we found you."
 
 "But why me?" Jewel asked, calming herself with the softness of her fur.
 
@@ -902,7 +902,7 @@ leave you here, even with your wonderful friends." She stroked the rabbit's ear.
 "When could we leave?" asked Jewel, examining the pattern in her gown. Marina
 looked up and smiled.
 
-"Whenever you are ready," the fox smiled.
+"Whenever you are ready," the fox said.
 
 "Okay." Jewel took a deep breath, savoring the smell of rain, the tiny currents
 of air tickling her fur. "Okay. Yes, I want to go."
@@ -950,6 +950,6 @@ the top, Jewel paused and closed her eyes, turning her head up toward the
 clouds. Stray raindrops splashed off her face, a baptism for the new wolf and
 her new life. The grass in the airfield flooded her snout with an intoxicating
 aroma. A great smile crawled across her face, and she opened her eyes to see the
-moon smiling back. Jewel howled at it, a bright flame in her heart.
+moon smiling back. Jewel howled at it, a bright and joyous flame in her heart.
 
 At last, she turned around, and followed her anthro girlfriend into the plane.
