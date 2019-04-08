@@ -1,6 +1,20 @@
 {% if page.author %} {% assign author = site.data.authors[page.author] %}{% else %}{% assign author = site.owner %} {% endif %}
 
 <div class="cover-card table-cell table-middle">
+  <div class="toggle-box">
+    <input type="checkbox" name="checkbox1" id="toggle-box-checkbox" />
+    <label for="toggle-box-checkbox" class="toggle-box-label-left"></label>
+    <label for="toggle-box-checkbox" class="toggle-box-label"></label>
+  </div>
+  <script>
+    if (localStorage.getItem("darkmode") == "on") {
+      document.getElementById("toggle-box-checkbox").checked = true;
+      document.getElementById("dark-mode").disabled = false;
+    } else {
+      document.getElementById("toggle-box-checkbox").checked = false;
+      document.getElementById("dark-mode").disabled = true;
+    }
+    </script>
   {% if author.avatar %}
   <a href="{{ site.url }}/">
     <img src="{{ site.url }}/img/{{ author.avatar }}" alt="" class="avatar">

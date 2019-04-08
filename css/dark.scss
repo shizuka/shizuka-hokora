@@ -1,0 +1,72 @@
+---
+---
+
+/* Common theme */
+html,
+body,
+:not([style*="background-color:"]) {
+    background-color: rgb(27, 31, 33) !important;
+}
+html,
+body,
+:not([style*="color:"]) {
+    color: rgb(163, 155, 138) !important;
+}
+h1:not([style*="color:"]),
+h2:not([style*="color:"]),
+h3:not([style*="color:"]),
+h4:not([style*="color:"]),
+h5:not([style*="color:"]),
+h6:not([style*="color:"]) {
+    color: rgb(235, 141, 105) !important;
+}
+cite:not([style*="color:"]) {
+    color: rgb(128, 196, 146) !important;
+}
+input:not([style*="background-color:"]),
+textarea:not([style*="background-color:"]),
+button:not([style*="background-color:"]),
+[role="button"] {
+    background-color: rgb(42, 56, 70) !important;
+}
+input:not([style*="background-color:"]):hover,
+textarea:not([style*="background-color:"]):hover,
+button:not([style*="background-color:"]):hover,
+[role="button"]:hover {
+    background-color: rgb(39, 61, 84) !important;
+}
+input:not([style*="background-color:"]):active, input:not([style*="background-color:"]):focus,
+textarea:not([style*="background-color:"]):active, textarea:not([style*="background-color:"]):focus,
+button:not([style*="background-color:"]):active, button:not([style*="background-color:"]):focus,
+[role="button"]:active, [role="button"]:focus {
+    background-color: rgb(38, 63, 89) !important;
+}
+a:not([style*="color:"]) {
+    color: rgb(128, 177, 196) !important;
+}
+a:not([style*="color:"]):hover {
+    color: rgb(142, 189, 211) !important;
+}
+a:not([style*="color:"]):active, a:not([style*="color:"]):focus {
+    color: rgb(155, 201, 226) !important;
+}
+:not([style*="border-color:"]),
+::before,
+::after {
+    border-color: rgb(85, 117, 133) !important;
+}
+div:empty {
+    background-color: rgb(27, 31, 33) !important;
+}
+input::placeholder,
+textarea::placeholder {
+    color: rgb(163, 155, 138) !important;
+}
+input:not([style*="background-image:"]),
+textarea:not([style*="background-image:"]) {
+    background-image: none !important;
+}
+
+.cover, .cover * {
+    background-color: #3c130a !important;    
+}
