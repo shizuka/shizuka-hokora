@@ -30,6 +30,8 @@ control. When successful, we arrive at a scene we can lose ourselves in again.
 
 This is how one such immersive intervention went.
 
+<!--more-->
+
 * * *
 
 *Faith, if I say  "Imagine a park", what do you think of?*
