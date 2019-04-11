@@ -8,8 +8,21 @@ permalink: /categories/
 {% for cat in sorted %}
   <div class="tag-group">
     {% capture cat_name %}{{ cat | first }}{% endcapture %}
-    <h5 class="tag-group-title" id="{{ cat_name | slugize }}">{{ cat_name }}</h5>
-    {% for post in site.categories[cat_name] %}
+    {% capture cat_title %}{{ cat | first | capitalize }}{% endcapture %}
+    <h5 class="tag-group-title" id="{{ cat_name | slugize }}">
+      <i class="fa fa-fw fa-{{ site.data.catmeta[cat_name].icon }}"></i> {{ site.data.catmeta[cat_name].name | default: cat_title }}
+    </h5>
+    {% if site.data.catmeta[cat_name].desc %}
+    <div class="tag-desc">{{ site.data.catmeta[cat_name].desc | markdownify }}</div>
+    {% endif %}
+    {% if site.data.catmeta[cat_name].sort == "asc" %}
+      {% assign sorted = site.categories[cat_name] | reverse %}
+    {% elsif site.data.catmeta[cat_name].sort == "order" %}
+      {% assign sorted = site.categories[cat_name] | sort: 'order' %}
+    {% else %}
+      {% assign sorted = site.categories[cat_name] %}
+    {% endif %}
+    {% for post in sorted %}
     <article class="tag-item">
       <a class="tag-item-title" href="{{ site.url }}{{ post.url }}">{{post.title}}</a>
     </article>

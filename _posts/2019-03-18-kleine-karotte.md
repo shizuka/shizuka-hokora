@@ -5,8 +5,9 @@ title: Kleine Karotte
 categories:
   - confursion
 tags:
-  - vignettes
   - furry
+  - vignette
+order: 0011
 ---
 
 **...seven months after first infection...**

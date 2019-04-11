@@ -18,14 +18,20 @@ ul.tag-cloud {
     margin-bottom: 2em;
     .tag-group-title {
       color: $warning;
-      text-transform: capitalize;
+    }
+
+    .tag-desc {
+      p {
+        margin: -0.25em auto 1em 0.5em;
+        color: lighten($text-color, 25%);
+        font-size: 80%;
+      }
     }
 
     .tag-item {
       padding-left: 1em;
       margin-bottom: .5em;
       a {
-        color: $text-color;
         &:hover,
         &:focus {
           color: lighten($text-color, 24%);

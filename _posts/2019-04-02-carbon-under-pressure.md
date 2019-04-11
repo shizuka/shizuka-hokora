@@ -5,8 +5,9 @@ title: Carbon Under Pressure
 categories:
   - confursion
 tags:
-  - vignettes
   - furry
+  - story
+order: 0110
 ---
 
 The late September sun streaked through the window blinds, throwing thin bands

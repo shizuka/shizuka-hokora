@@ -5,7 +5,7 @@ title: Living Commute
 categories:
   - journal of the mundane
 tags:
-  - vignettes
+  - vignette
 ---
 
 The city breathes in.

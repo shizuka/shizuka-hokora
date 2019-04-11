@@ -5,7 +5,7 @@ categories:
   - journal of the mundane
 tags:
   - blog
-  - vignettes
+  - vignette
 image:
   feature: furhaven-tavern-interior.png
 ---

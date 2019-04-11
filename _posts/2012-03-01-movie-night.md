@@ -8,7 +8,10 @@ excerpt: |
   hear the quiet sounds of birdsong. By now the path has meandered through
   enough trees that the entry terminal is only a brighter patch of foggy glow
   behind you...
-tags: [vignettes, bronystate]
+tags: 
+  - vignette
+  - furry
+  - bronystate
 ---
 
 The connection is established.

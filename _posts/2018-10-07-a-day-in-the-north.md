@@ -1,7 +1,9 @@
 ---
 title: A Day in the North
-categories: [journal of the mundane]
-tags: [vignettes]
+categories: 
+  - journal of the mundane
+tags: 
+  - vignette
 ---
 
 It's another cold day in the north. Large puffs of snow waft through the air,

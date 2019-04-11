@@ -14,7 +14,9 @@ permalink: /archive/
 
       <ul>
       {% for post in group.items %}
-        <li><div style="width:60px;float:left;">{{ post.date | date: "%b %-d" }}</div> <a href="{{ site.url }}{{ post.url }}">{{ post.title }}</a></li>
+      {% capture cat %}{{ post.categories | first }}{% endcapture %}
+      {% capture icon %}<i class="fa fa-fw fa-{{ site.data.catmeta[cat].icon }}"></i>{% endcapture %}
+        <li><div style="width:60px;float:left;">{{ post.date | date: "%b %-d" }}</div> <a href="{{ site.url }}{{ post.url }}">{{ icon }} {{ post.title }}</a></li>
       {% endfor %}
       </ul>
 

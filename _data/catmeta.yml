@@ -1,0 +1,39 @@
+#==========================================================
+# Shizuka Hokora
+# Category Metadata
+#----------------------------------------------------------
+#
+# category:
+#   name: force capitalization (Journal of the Mundane)
+#   icon: font awesome 4.7.0 icon (fa-_____)
+#   desc: description, markdownable
+#   sort: asc/desc/order
+#     asc - by date oldest first
+#     desc - by date newest first (default)
+#     order - by [order] variable in post front matter
+#             Note: ALL posts must have [order]
+#
+#==========================================================
+
+confursion:
+  name: Confursion Universe
+  icon: paw
+  desc: |
+    Visit the [Official Wiki](https://confursion.hokora.page)
+
+    In the not-so-distant future, a project to make space travel slightly more
+    palatable to human physiology accidentally produces a virulent plague of
+    genetic alterations. The result, one in every hundred or so humans is
+    transforming into a furrier version of themselves. These are their stories.
+  sort: order
+  # order = YYMM in universe, 0010 = October 0AF (OFM), 0205 May 2AF (CUP)
+
+journal of the mundane:
+    name: Journal of the Mundane
+    icon: commenting-o
+    desc: |
+      Instead of trying to make every day sound interesting enough to journal,
+      take a single moment and describe it in as much detail as possible. Use
+      all the senses. Immerse the reader into that moment.
+      
+      Find the magic in the mundane.

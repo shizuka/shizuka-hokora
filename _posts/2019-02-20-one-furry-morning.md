@@ -1,7 +1,12 @@
 ---
 title: One Furry Morning
-categories: [confursion]
-tags: [vignettes, furry]
+published: true
+categories: 
+  - confursion
+tags: 
+  - furry
+  - vignette
+order: 0010
 ---
 
 **...six months after first infection...**  
