@@ -16,21 +16,31 @@
 #==========================================================
 
 confursion:
-  name: Confursion Universe
+  name: Confursion
   icon: paw
   desc: |
-    Visit the [Official Wiki](https://confursion.hokora.page)
+    [Visit the Wiki](https://confursion.hokora.page)
 
     In the not-so-distant future, a project to make space travel slightly more
     palatable to human physiology accidentally produces a virulent plague of
-    genetic alterations. The result, one in every hundred or so humans is
+    genetic alterations. The result, one in every thousand or so humans is
     transforming into a furrier version of themselves. These are their stories.
   sort: order
   # order = YYMM in universe, 0010 = October 0AF (OFM), 0205 May 2AF (CUP)
 
+aethernet:
+  name: Aethernet
+  icon: cogs
+  desc: |
+    When Tron meets Neon Genesis Evangelion, meets Darwinia, meets Confursion. A
+    virtual inhabited universe where the name of the game is stop a ravenous
+    virus from reaching the real world.
+
+    May or may not cohabitate with Confursion.
+
 journal of the mundane:
     name: Journal of the Mundane
-    icon: commenting-o
+    icon: paint-brush
     desc: |
       Instead of trying to make every day sound interesting enough to journal,
       take a single moment and describe it in as much detail as possible. Use
