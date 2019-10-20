@@ -28,16 +28,6 @@ confursion:
   sort: order
   # order = YYMM in universe, 0010 = October 0AF (OFM), 0205 May 2AF (CUP)
 
-aethernet:
-  name: Aethernet
-  icon: cogs
-  desc: |
-    When Tron meets Neon Genesis Evangelion, meets Darwinia, meets Confursion. A
-    virtual inhabited universe where the name of the game is stop a ravenous
-    virus from reaching the real world.
-
-    May or may not cohabitate with Confursion.
-
 journal of the mundane:
     name: Journal of the Mundane
     icon: paint-brush
